@@ -16,4 +16,5 @@ This is the repository for the homework of NTU Machine Learning 2022 Spring.
 
 ## HW8 - AutoEncoder
 - FCN based AutoEncoder
+- Change FCN Architecture
 - More Epochs
